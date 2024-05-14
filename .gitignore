@@ -1,2 +1,6 @@
 .idea
 venv
+results
+logs
+downloads
+*.sqlite
